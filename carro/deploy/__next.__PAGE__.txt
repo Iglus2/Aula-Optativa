@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/sx.jpg","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-col justify-center items-center p-4 text-center","children":[["$","h1",null,{"className":"text-4xl font-bold","children":"BrumBrum"}],["$","p",null,{"className":"mt-2","children":"O melhor site para aprender sobre carros"}],["$","p",null,{"className":"mt-2","children":["Comece aprendendo sobre"," ",["$","$L2",null,{"href":"/motors","className":"text-blue-500 underline","children":"Motores"}],","," ",["$","$L2",null,{"href":"/rodas","className":"text-blue-500 underline","children":"Rodas"}],", e"," ",["$","$L2",null,{"href":"/bodykits","className":"text-blue-500 underline","children":"BodyKits"}],"."]}],["$","img",null,{"className":"mt-4","src":"/sx.jpg","alt":"Nissan 180SX"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PpwLKyWOhFiaGrRMzrXDH"}
+5:null
